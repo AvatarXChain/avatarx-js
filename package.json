@@ -1,0 +1,24 @@
+{
+  "name": "avatarx-js",
+  "version": "1.0.0",
+  "description": "AvatarX javascript library",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "author": "max@avatarx.io",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvatarXChain/avatarx-js.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvatarXChain/avatarx-js/issues"
+  },
+  "homepage": "https://github.com/AvatarXChain/avatarx-js#readme"
+}
